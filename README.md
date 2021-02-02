@@ -2,14 +2,14 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoshinonxkun&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshinonxkun&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=yoshinonxkun&show_icons=true&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshinonxkun&theme=onedark" />
 
 ## Pinned Repositorys
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mribrgr&repo=StuRa-Mitgliederdatenbank&theme=dark)](https://github.com/mribrgr/StuRa-Mitgliederdatenbank)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mribrgr&repo=StuRa-Mitgliederdatenbank&theme=onedark&show_owner=true)](https://github.com/mribrgr/StuRa-Mitgliederdatenbank)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbo-dream-team&repo=track-me-code-doc&theme=dark)](https://github.com/pbo-dream-team/track-me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbo-dream-team&repo=track-me-code-doc&theme=onedark&show_owner=true)](https://github.com/pbo-dream-team/track-me)
 
 
 <!--
