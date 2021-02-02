@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=yoshinonxkun&show_icons=true&theme=onedark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshinonxkun&theme=onedark" />
 
-## Pinned Repositorys
+## Pinned Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mribrgr&repo=StuRa-Mitgliederdatenbank&theme=onedark&show_owner=true)](https://github.com/mribrgr/StuRa-Mitgliederdatenbank)
 
