@@ -2,8 +2,8 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoshinonxkun&show_icons=true&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshinonxkun&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api?username=lks-hrsch&show_icons=true&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ks-hrsch&theme=onedark" />
 
 ## Pinned Repositories
 
@@ -13,7 +13,7 @@
 
 
 <!--
-**Yoshinonxkun/Yoshinonxkun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ks-hrsch/ks-hrsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
