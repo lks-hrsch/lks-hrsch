@@ -7,9 +7,18 @@
 
 ## Certifications
 
-[![The Things Certified Fundamentals](./images\badge_fundamental.png)](https://www.thethingsnetwork.org/u/lkshrsch) [![The Things Certified Advanced](./images\badge_advanced.png)](https://www.thethingsnetwork.org/u/lkshrsch)
-
-[![AZ104](./images/microsoft-certified-associate-badge.svg)](https://learn.microsoft.com/api/credentials/share/en-us/lkshrsch/4B785A38507F4966?sharingId=182D38988A51B34) [![AZ305](./images/microsoft-certified-expert-badge.svg)](https://learn.microsoft.com/api/credentials/share/en-us/lkshrsch/E6DE9495F3FBF404?sharingId=182D38988A51B34)
+<a href="https://www.thethingsnetwork.org/u/lkshrsch">
+<img src="./images/badge_fundamental.png" alt="The Things Certified Fundamentals" width="100px">
+</a>
+<a href="https://www.thethingsnetwork.org/u/lkshrsch">
+<img src="./images/badge_advanced.png" alt="The Things Certified Advanced" width="100px">
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/lkshrsch/4B785A38507F4966?sharingId=182D38988A51B34">
+<img src="./images/microsoft-certified-associate-badge.svg" alt="AZ104" width="100px">
+</a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/lkshrsch/E6DE9495F3FBF404?sharingId=182D38988A51B34">
+<img src="./images/microsoft-certified-expert-badge.svg" alt="AZ305" width="100px">
+</a>
 
 ## Pinned Repositories
 
