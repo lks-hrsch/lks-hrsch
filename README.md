@@ -2,8 +2,8 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=lks-hrsch&show_icons=true&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lks-hrsch&theme=onedark" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=lks-hrsch&show_icons=true&theme=onedark" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lks-hrsch&theme=onedark" />
 
 ## Certifications
 
@@ -22,9 +22,9 @@
 
 ## Pinned Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mribrgr&repo=StuRa-Mitgliederdatenbank&theme=onedark&show_owner=true)](https://github.com/mribrgr/StuRa-Mitgliederdatenbank)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=mribrgr&repo=StuRa-Mitgliederdatenbank&theme=onedark&show_owner=true)](https://github.com/mribrgr/StuRa-Mitgliederdatenbank)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbo-dream-team&repo=track-me-code-doc&theme=onedark&show_owner=true)](https://github.com/pbo-dream-team/track-me)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=pbo-dream-team&repo=track-me-code-doc&theme=onedark&show_owner=true)](https://github.com/pbo-dream-team/track-me)
 
 
 <!--
